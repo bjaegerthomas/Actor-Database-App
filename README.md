@@ -43,11 +43,17 @@ I want streamlined quicker access to the info a user wants.
 
 Here we can see a lot of drop down menus for entering a new audition. There are a lot of outdated types of dropdown selections for different parts of this page that applied to a time when auditions were done more in person or when people sent physical headshots out and follow-up postacrds, etc. So again I want to streamline this area a bit to make it more easy to use and flow with.
 
-Also as a general note, I would like the ability for the user to generate their own dropdown menu titles.
+Also as a general note, I would like the ability for the user to generate their own dropdown menu titles or clarifications so they can tailor it more specifically to them. This way if they have a different type of expense category they can enter it and make the app more personal for themselves.
 
-On this page I think we can keep the following sections and drop-downs within those sections:
+On this page I would like to have the following sections and options:
 
-******
+First an area to get the basic audition information:
+
+#### Title of the Audition
+What Round it is (1st audition, call back, screen test, etc.)
+
+
+
 
 
 
