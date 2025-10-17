@@ -45,21 +45,31 @@ Here we can see a lot of drop down menus for entering a new audition. There are 
 
 Also as a general note, I would like the ability for the user to generate their own dropdown menu titles or clarifications so they can tailor it more specifically to them. This way if they have a different type of expense category they can enter it and make the app more personal for themselves.
 
-On this page I would like to have the following sections and options:
+On this page I would like to have the following options:
 
-First an area to get the basic audition information:
-
-- Title of the Audition
+- Title of the Audition - text box for user entry
 - What Round it is
-    1st Audition, Callback, Producer's Callback, Network Test, Screen Test, Other (User created entry)
+    - 1st Audition, Callback, Producer's Callback, Network Test, Screen Test, Other (User created entry)
 - Project Type
-    Feature Film, Short Film, Commercial, Industrial, Play, Videogame, Podcast, Music Video, Other (User created entry)
+    - Feature Film, Short Film, Commercial, Industrial, Play, Videogame, Podcast, Music Video, Other (User created entry)
 - Date and Time
 - Appt Location
-    Here there would be a drop down of previously entered casting spaces or studios you could choose from to pin this audition to, as well as the option of self-tape which is the majority of audition submissions these days
+    - Here there would be a drop down of previously entered casting spaces or studios (entered via the ***Contacts*** section) you could choose from to pin this audition to, as well as the option of self-tape which is the majority of audition submissions these days. Addresses for physical spaces would also accompany those previously entered entities.
 - Role Type
-    Lead, Supporting, Co-Star, Guest Star, Extra, Featured Extra, Background, Voice Over, Live Performance, Other (User created entry)
-- 
+    - Lead, Supporting, Co-Star, Guest Star, Extra, Featured Extra, Background, Voice Over, Live Performance, Other (User created entry)
+- Role Name - text box for user entry
+- Role Description - text box for user entry
+- Union Status
+    - SAG/AFTRA, Actor's Equity, WGA,  Other (User created entry)
+- Submitted Through
+    - Here there would be a drop down menu of representation the actor has entered via the ***Contacts*** section or websites if it was a self submission like through Casting Networks or Actors Access
+- Post Audition
+    - Area to upload a photo of what you wore and hair style, etc... the look, if you will
+    - A drop down menu of contacts so you can highlight who you met with, this can later be used to help create stats about when the last time you saw a specific casting person was, or how many times you've worked with a specific director, etc.
+    - A text box for notes and thoughts about the audition or experience to help refresh your memory when going in for the call back, etc.
+- A Save Button
+- A Cancel Button
+- A Booking Button - Transfers this audition info over to the booking section and lets you then update information about when the first wardrobe fitting is, shoot dates, rehearsals, etc.
 
 
 
