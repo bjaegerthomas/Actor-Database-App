@@ -49,8 +49,17 @@ On this page I would like to have the following sections and options:
 
 First an area to get the basic audition information:
 
-#### Title of the Audition
-What Round it is (1st audition, call back, screen test, etc.)
+- Title of the Audition
+- What Round it is
+    1st Audition, Callback, Producer's Callback, Network Test, Screen Test, Other (User created entry)
+- Project Type
+    Feature Film, Short Film, Commercial, Industrial, Play, Videogame, Podcast, Music Video, Other (User created entry)
+- Date and Time
+- Appt Location
+    Here there would be a drop down of previously entered casting spaces or studios you could choose from to pin this audition to, as well as the option of self-tape which is the majority of audition submissions these days
+- Role Type
+    Lead, Supporting, Co-Star, Guest Star, Extra, Featured Extra, Background, Voice Over, Live Performance, Other (User created entry)
+- 
 
 
 
