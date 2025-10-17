@@ -33,3 +33,21 @@ The ***Help*** section can be the support area and house the FAQ's and Quickstar
 
 ![Audition/Interview Page](assets/audition.png)
 
+Currently you have the option of creating a new audition or editing a previously logged audition to change info or to update it to a callback (the next phase of the audition process when you have moved forward from the first round.)
+
+I don't like the fact that in this version it auto-numbers your auditions, lists them in order of most recent to less recent, and doesn't give you the option to search for a specific audition. I think there should be more manipulation options (like you would have in any database) and ability to view things according to many different criteria.
+
+I want streamlined quicker access to the info a user wants.
+
+![New Audition](assets/newAudition.png)
+
+Here we can see a lot of drop down menus for entering a new audition. There are a lot of outdated types of dropdown selections for different parts of this page that applied to a time when auditions were done more in person or when people sent physical headshots out and follow-up postacrds, etc. So again I want to streamline this area a bit to make it more easy to use and flow with.
+
+Also as a general note, I would like the ability for the user to generate their own dropdown menu titles.
+
+On this page I think we can keep the following sections and drop-downs within those sections:
+
+******
+
+
+
