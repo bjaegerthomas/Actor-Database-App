@@ -81,19 +81,81 @@ On this page I would like to have the following options:
 
 # Income
 
+I'm laying out the data I would want captured below but also perhaps there is a way of incorporating an expensify type API which could auto generate these fields by taking a photo of a pay stub or something and help streamline the process so actors don't have to enter everything manually.
+
 ![Audition/Interview Page](assets/income.png)
+
+On both the income and expenses pages I think we can lose the ***Calculator***, ***Expenses Guide***, ***Currency Converter***, ***Performer Trust***, and ***Child Trust*** buttons on the right hand side of the page. Effectively leaving just the option for an income report and expense report for the other section below.
+
+In addition there should be an option to have an expense or income item be attributed to either a project or just as a random expense.
+
+As far as entering income these are the following fields for user input:
+
+- A drop down menu which allows you to choose the booked job which you want to enter income for
+- Date Paid
+- Income Type
+    - Buy-out, Residual, Session Fee, Day Rate, Holding Fee, Stipend, Other (User created entry)
+- Payment Method
+    - Cash, Check, Direct Deposit, Other (User created entry)
+- Union Affiliation
+    - SAG/AFTRA, Actor's Equity, Other (User created entry)
+- Gross Amount
+- Net Amount
+- Payroll Company
+    - Other (User created entry)
+
+There should also be a ***Save*** and ***Cancel*** button for confirming or abandoning the current entry.
+
+There should be a space on this screen to see past income tied to the same project as the one being currently entered after it is saved.
 
 ---
 
 # Expenses
 
+As mentioned above in the ***Income*** section, maybe an Expensify API could help generate withholding info so the actor doesn't have to enter all of the information for a given expense.
+
 ![Audition/Interview Page](assets/expenses.png)
+
+As far as entering expenses here are the following fields for user input:
+
+- A drop down menu which allows you to choose the booked job which you want to enter income for
+- Date
+- Expense Type
+    - Management Fee, Agent Fee, Parking, Hair Stylist, Other (User created entry)
+- Payee
+    - Other (User created entry)
+- Payment Type
+    - Check, Cash, Venmo, Paypal, ACH Transfer, Other (User created entry)
+- Expense Amount
+- Description
+    - A text box for any notes a user wants to add to this expense
+
+There should also be a ***Save*** and ***Cancel*** button for confirming or abandoning the current entry.
+
+There should be a space on this screen to see past income tied to the same project as the one being currently entered after it is saved.
 
 ---
 
 # Additional Expenses
 
 ![Audition/Interview Page](assets/addExpenses.png)
+
+This can either be a separate page or maybe a selection on the expenses page which allows you to choose between a project related expense or just a business expense.
+
+As far as entering additional non-project expenses here are the following fields for user input:
+
+- Date
+- Expense Type
+    - Union Dues, Tickets for Research, Equipment Rental, Editing, Other (User created entry)
+- Payee
+    - Other (User created entry)
+- Payment Type
+    - Check, Cash, Venmo, Paypal, ACH Transfer, Other (User created entry)
+- Expense Amount
+- Description
+    - A text box for any notes a user wants to add to this expense
+
+There should also be a ***Save*** and ***Cancel*** button for confirming or abandoning the current entry.
 
 ---
 
@@ -102,6 +164,20 @@ On this page I would like to have the following options:
 ![Audition/Interview Page](assets/incomeReport.png)
 
 ![Audition/Interview Page](assets/expenseReport.png)
+
+On this page you should be able to choose between producing an income or expense report.
+
+User inputed fields to sccomplish this should include:
+
+- Drop down menu where you can select a specific project or if left blank it will asssume you want to look at all income or expenses for the report.
+- Start and End date to capture the time frame for accruing the data
+- Expense Type or Income Type  drop down menu in the event you only want to look at a specific type for your data table
+
+There should be a button that then activates the creation of the data table after the other data parameters have been entered. This information should then be displayed on screen in descending order with columns for the different fields used to enter project or additional expense data cooresponding to each line item.
+
+There should also be an option to sort the data on screen grouping line items by expense or income type, etc.
+
+It might also be nice to have a separate, non-money related chart feature which allows you to search by director, producer, or one of the many other fields and then lists in historical order the different projects you worked with them on. Giving you a timeline of your last contact with them and a bite sized display of info you can use in the event you want to follow up or need a refresher for talking points.
 
 ---
 
