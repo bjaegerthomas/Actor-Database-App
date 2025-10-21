@@ -71,6 +71,44 @@ On this page I would like to have the following options:
 - A Cancel Button
 - A Booking Button - Transfers this audition info over to the booking section and lets you then update information about when the first wardrobe fitting is, shoot dates, rehearsals, etc.
 
+---
+
+# Bookings
+
+![Audition/Interview Page](assets/booking.png)
+
+---
+
+# Income
+
+![Audition/Interview Page](assets/income.png)
+
+---
+
+# Expenses
+
+![Audition/Interview Page](assets/expenses.png)
+
+---
+
+# Additional Expenses
+
+![Audition/Interview Page](assets/addExpenses.png)
+
+---
+
+# Reports
+
+![Audition/Interview Page](assets/incomeReport.png)
+
+![Audition/Interview Page](assets/expenseReport.png)
+
+---
+
+
+
+
+
 
 
 
